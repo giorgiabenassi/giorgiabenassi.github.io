@@ -100,7 +100,7 @@ body {
 /* ---- conferences ---- */
 
 .conferences {
-  max-width: 200rem;
+  max-width: 60rem;
   margin: 0 auto;
   padding: 2rem 1.5rem 1rem;
 }
